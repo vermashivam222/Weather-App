@@ -1,0 +1,364 @@
+KT Functionality...........
+
+1. Notification
+2. Profile
+  2.1. Logout
+
+3. Dashboard
+
+  3.1. Cast Profile Management_______________________________________________id 0-7-7z578*** 
+   3.1.1. Search Box 
+   3.1.2. Filters 
+   3.1.3. Create Profile
+    -Left side
+     3.1.3.1. Profile Details
+	3.1.3.1.1. Upload Profile Image*
+        3.1.3.1.2. Profile Name*
+        3.1.3.1.3. Also Known As*
+        3.1.3.1.4. Tag/Badge*
+        3.1.3.1.5. Cast Type*         
+     3.1.3.2. Images*
+     3.1.3.3. FAQ
+     3.1.3.4. Checklist
+      3.1.3.4.1. Publish and unpublish
+     -Right Side => Quick Links
+			1)Translation 
+			2)Published History
+  
+  
+  3.2. Movie________________________________________________________________id 0-0 1z578***
+	-Left Side =>
+	3.2.1. Content Properties	
+ 	     Title Summary:-
+		3.2.1.1. Title*
+		3.2.1.2. Web Description*
+		3.2.1.3. Sub Type*
+		3.2.1.4. Content Category* 
+  		3.2.1.5. Primary Genre*
+		3.2.1.6. Video Duration*  
+		3.2.1.7. Audio Language*
+		3.2.1.8. Primary language(If multi-audio is on)*
+		3.2.1.9. Dubbed Language Title
+		3.2.1.10. Original Language(If Dubbed Is On)*
+	     Classification:-
+		3.2.1.11. Content Owner*
+		3.2.1.12. Certification* 
+	     Player Attributes:-
+		[]Skip Available []Skip Song
+	     Control Fields	
+
+	3.2.2. Cast and Crew
+
+	3.2.3. Videos
+		3.2.3.1. HLS Root Folder*
+		3.2.3.2. HLS Manifest*
+		3.2.3.3. Mediathek File UID*		
+
+
+	3.2.4. License Module
+		3.2.4.1. Search Box
+		3.2.4.2. Filter
+		3.2.4.3. Create License
+		     3.2.4.3.1. License From Date*
+		     3.2.4.3.2. License To Date*
+		     3.2.4.3.3. Country/Group*
+		     3.2.4.3.4. Business Type*
+		     3.2.4.3.5. Content Age Rating*				
+
+
+	3.2.5. Images
+	     3.2.5.1. LIST*
+		
+	3.2.6. SEO details
+	3.2.7. Map Content 
+  	3.2.8. Checklist
+	  3.2.8.1. Publish Content	
+	  3.2.8.2. Unpublish Content
+     -Right Side => Quick Links
+			1)Related Content
+			2)Translation 
+			3)Collection Assignment
+                        4)Published History
+
+	
+  3.3. Video---------------------------------------Id 0-0-2z5787**
+    -> Left Side =>
+        3.3.1. Video Properties
+	Title Summary:-
+		3.3.1.1. Title*
+		3.3.1.2. Web Description*
+		3.3.1.3. Sub Type*
+		3.3.1.4. Content Category 
+  		3.3.1.5. Primary Genre*
+		3.3.1.6. Video Duration*  
+		3.3.1.7. Audio Language*
+		3.3.1.8. Primary language(If multi-audio is on)*
+		3.3.1.9. Dubbed Language Title(If multi-audio is on)*
+		3.3.1.10. Original Language(If Dubbed Is On)*
+		3.3.1.11. Content Version*
+	Classification:-
+		3.3.1.12. Content Owner*
+		3.3.1.13. Certification* 
+	Player Attributes:-
+		[]Skip Available []Skip Song
+	Control Fields	
+	3.3.2. Cast & Crew
+	3.3.3. Videos
+		3.3.3.1. HLS Root Folder*
+		3.3.3.2. HLS Manifest*
+		3.3.3.3. Mediathek File UID*		
+
+	3.3.4. License Module
+		3.3.4.1. Search Box
+		3.3.4.2. Filter
+		3.3.4.3. Create License
+		     3.3.4.3.1. License From Date*
+		     3.3.4.3.2. License To Date*
+		     3.3.4.3.3. Country/Group*
+		     3.3.4.3.4. Business Type*
+		     3.3.4.3.5. Content Age Rating*
+	3.3.5. Images
+		3.3.5.1. LIST*
+	3.3.6. SEO Details
+	3.3.7. Map Content
+	3.3.8. Checklist
+		3.3.8.1. Publish Content	
+	  	3.3.8.2. Unpublish Content
+	-Right Side => Quick Links
+			1)Related Content
+			2)Translation 
+			3)Collection Assignment
+                        4)Published History
+
+  3.4. Collection-------------------------------------------Id0-8-3z578***
+	3.4.1. Search Box
+	3.4.2. Sort
+	3.4.3. Filters
+	3.4.4. Bulk Filling
+	3.4.5. Create Collection
+	-Left Side 3.4.5.1. Content Properties
+	Title Summary -> Title * , Country/Groups*
+	Control Fields -> Details
+		3.4.5.2. Images
+			3.4.5.2.1. List
+		3.4.5.3. SEO Details
+		3.4.5.4. Assign Assets
+			3.4.5.4.1. Add Collections
+		3.4.5.5. Checklist
+			3.4.5.1. Publish Content	
+	  		3.4.5.2. Unpublish Content
+	Right Side => Quick Links
+			1)Traslations
+			2)Activity Log 
+			3)Assign To Page
+                        4)Set Collection Limit
+			5)Import Data
+			6)Export Data
+
+
+  3.5. Page Content
+	 3.5.1. Content Properties
+		Title Summary -> Title * , Country/Groups*
+		Control Fields -> Details
+	 3.5.2. Assign Assets
+		3.5.2.1. Re-Arrange Assest -> Search Box, Filters
+		3.5.2.2. Channels -> Add channels
+		3.5.2.3. Collections -> Add Collections
+	 3.5.3. Checklist
+		3.5.3.1. Publish Content	
+	  	3.5.3.2. Unpublish Content
+	Right Side => Quick Links
+			1)Traslations
+			2)Activity Log 
+  3.6. UID Mapping
+
+	3.6.1. Unmapped UIDs
+		3.6.1.1.  Map Content
+			3.6.1.1.1. Assign Movies
+			3.6.1.1.2. Assign Videos
+			3.6.1.1.3. Assign Episodes 
+	3.6.2. Mapped UIDs___________________________________ tv showsid 0 6-4z577***, Ep id 0-1-6z566*** 
+		3.6.2.1. Search, Publish, Filters, TV shows:- View, Checklist	
+			
+
+  3.7. TV Show
+	3.7. Search, Sort, Create TV shows:-
+		Right side => 3.7.1 Tv Shows Properties
+				3.7.1.1 Title Summary
+					3.7.1.1.1 Title*
+		            3.7.1.1.2 Web Description*
+		            3.7.1.1.3 Sub Type*
+                    3.7.1.1.4 XML Title
+		            3.7.1.1.5 Content Category 
+  		            3.7.1.1.6 Primary Genre*    
+		            3.7.1.1.7 Audio Language*
+		            3.7.1.1.8 Primary language(If multi-audio is on)*
+		            3.7.1.1.9 Dubbed Language Title(If multi-audio is on)*
+		            3.7.1.1.10 Original Language(If Dubbed Is On)*
+		            3.7.1.1.11. Content Version*
+				3.7.1.2 Classification
+                    3.7.1.2.1 Content Owner
+                    3.7.1.2.2 Certification
+                    3.7.1.2.3 Channel
+				3.7.1.3 Control Fields	
+
+
+			    3.7.2 Cast & Crew
+			    3.7.3 License Module
+                    3.7.3.1 Search Box
+		            3.7.3.2 Filter
+		            3.7.3.3 Create License
+		                3.7.3.3.1 License From Date*
+		                3.7.3.3.2 License To Date*
+		                3.7.3.3.3 Country/Group*
+		                3.7.3.3.4 Business Type*
+		                3.7.3.3.5 Content Age Rating*
+			      3.7.4 Images
+                    3.7.4.1 List*
+			      3.7.5 SEO details
+			      3.7.6 Map Content
+                    3.7.6 Add Content
+                        3.7.6.1 Search Box, Filters, 
+                        3.7.6.2 Assign Content
+			      3.7.7 Checklist
+        Left Side =>
+                    Related Content
+                        Rearrange Content
+                        Display Name
+                        Assign Movies 
+                        Assign Collection
+                        Assign Channels
+                        Assign Videos
+                        Assign TV Shows
+                        Assign Seasons
+                        Assign Episodes
+
+                    Translations
+                    Collection Assignment
+                        Assign To Collections
+                    Seasons
+                        Default Ordering
+                            Create Seasons
+                                Quick Filling
+                                Left Side =>
+                                    Season Properties
+                                        Title 
+                                        Index
+                                        Audio language
+                                    Classification
+                                        Certification
+                                    License Module
+                                        Create License    
+                                    Images
+                                        List    
+                                    SEO Details
+                                    Checklist
+                                
+                                Right Side =>
+                                    Related Content
+                                        Add TV Shows
+                                    Collection Assignment
+                                        Assign to Collection
+                                    Episodes
+                                        Default Ordering
+                                            Sort
+                                            Filters
+                                            Generate XML
+                                            Create Episode
+                                                Manual
+                                                Placeholder
+                                                    Asset Properties
+                                                        Asset Type*
+                                                        Assent No Start From*
+                                                        Number Of Assets*
+                                                        Telecast Date*
+                                                        ***SAVE***
+                                        Set Ordering
+                                            Set Name*
+                                            Country/Group
+
+                                Main Season Page
+                        Set Ordering
+                            Create New Set
+                    Published History         
+  3.8. Channel
+  3.9. Ingestion
+  3.10. BUlk Update
+  3.11. External Link
+  3.12. EPG Dashboard
+  3.13. Reeport dashboard
+  3.14. Newsvod Archive
+
+4. Role Management
+
+  4.1. Search Box
+  4.2. Filter
+  4.3. Create Role
+
+5.User Management
+
+  5.1. Search Box
+  5.2. Sort
+  5.3. Filter
+5.4. Create User
+
+6. Master Management
+  
+  6.1. Manage Age Group
+  6.2. Award Category(Movies)
+  6.3. Licensing - Billing Type
+  6.4. Licensing - Business Type
+  6.5. Cast Type - Cast Type
+  6.6. Certificate => Certification(Movies)
+  6.7. Channel
+  6.8. Channel Ordering
+  6.9. Channel SubType
+  6.10. Channel Primary Category
+  6.11. Content Category(Movies)
+  6.12. Content Age Rating(Movies/License)
+  6.13. Content Descriptors(Movies)
+  6.14. Content Grade(Movies)
+  6.15. Content Owner(Movies)
+  6.16. Content Rating(Movies)
+  6.17. Content Version(Moives)
+  6.18. Manage Country(Movies)
+  6.19. Country Groupping(Movies)
+  6.20. Content Production
+  6.21. ERA(Movies)                  
+  6.22. Emotion Title(Movies)
+  6.23. Episode SubType
+  6.24. Manage Genres
+  6.25. Mange Languages
+  6.26. Month Translation
+  6.27. Movie Primary Genre
+  6.28. Movie Setting Genre
+  6.29. Movie SubType
+  6.30. Movie Thematic Genre
+  6.31. Platform
+  6.32. Production Company(Movies)
+  6.33. RCS Categories
+  6.34. Manage Relation
+  6.35. Reason Type
+  6.36. Special Category(Movies)
+  6.37. Region
+  6.38. Licensing -TVOD_Tier
+  6.39. Tag/ Badge
+  6.40. Target Audience(Movies)
+  6.41. Template Mangement
+  6.42. Theme(Movies)
+  6.43. TVShow Broadcasted
+  6.44. TVShow Primary Genre
+  6.45. TVShow Setting Genre
+  6.46. TVShow Subtype
+  6.47. TVShow Thematic Genre
+  6.48. Video Activity
+  6.49. DASH Suffixes(Movies)
+  6.50. Video Day Part
+  6.51. HLS Suffixes(Movies)
+  6.52. MSS Suffixes(Movies)
+  6.53. Video Primary Genre
+  6.54. Video Setting Genre
+  6.55. Video Style
+  6.56. Video SubType
+  6.57. Collection SubType
+  6.58.  Video Thematic Genre
